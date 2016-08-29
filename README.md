@@ -1,0 +1,1 @@
+# android_device_HMNOTE1W
